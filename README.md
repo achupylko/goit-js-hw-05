@@ -66,5 +66,5 @@ goit-js-hw-05/
 
 ## 👨‍💻 Автор
 
-**Артем Чупилко** — студент курсу Fullstack Developer від  
+**Артем Чупилко** — студент курсу Fullstack Developer від
 [GoIT](https://goit.global/ua/).
